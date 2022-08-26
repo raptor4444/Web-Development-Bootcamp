@@ -1,0 +1,193 @@
+/* Nav Bar  */
+
+body{
+    font-family: "Montserrat";
+}
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;        /* using color in title gives us the flexiblity to add more text of same color to our top container reusing the same code */
+}
+
+h1{
+    font-family: "Montserrat"; 
+    line-height: 1.5; 
+    font-size: 3.5rem;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1.5rem;
+    padding-top: 15px;
+    font-weight: bold; 
+    text-align: center;   
+    
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight:bold;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.nav-item{
+    padding: 0 16px;
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+/* Title */
+
+.download-button{
+    margin: 3rem 0;
+}
+
+.title-img{
+    width: 25% ;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-left: 3%;
+}
+
+/* features */
+
+#features{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    
+}
+
+.box{
+    text-align: center;
+    padding: 10% 6%;
+    align-self: hover;
+}
+
+
+.icon{
+    color:#ef8172;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+
+
+
+/* Testimonials */
+
+#testimonials{
+    text-align: center;
+    background-color:#ef8172 ;
+    
+}
+
+.testimonial-image{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+
+/* Press */
+
+
+#press{
+    background-color:#ef8172;
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 15px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+/* Pricing */
+
+#pricing{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 4% 2%;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+
+#Download{
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: center;
+    padding: 7% 20%;
+}
+h3{
+    font-size: 2.5rem;
+}
+.button{
+    margin: 10% 3%;
+    
+}
+
+.fa-brands{
+    padding-right: 4px;
+}
+
+
+/* footer */
+
+
+#footer{
+    background-color: #fff;
+    padding: 2% 0 3% 0;
+    text-align: center;
+}
+
+.brand-icons{
+    padding: 15px 8px;
+}
+
+.io:hover{
+    color: azure;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width: 1028px) {
+
+    #title{
+        text-align: center;
+    }
+
+    .title-img{
+        position:static;
+        transform:rotate(0);
+        width: 60%;
+    }
+}
