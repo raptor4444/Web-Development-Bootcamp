@@ -6,7 +6,7 @@ Changes to be done to make it yours:-
   3. Skill Section :- Change pictures if needed.
   4. Customise Colors according to your preference.
 
-
+<br>
 
 ![image](https://user-images.githubusercontent.com/106369419/212465163-9e126733-4494-4872-9b29-8987ba578274.png)
 
