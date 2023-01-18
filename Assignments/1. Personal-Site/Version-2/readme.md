@@ -1,4 +1,4 @@
-This tempelate which is reffered to make the website.
+This tempelate which is referred to make the website.
 
 Changes to be done to make it yours:-
   1. Favicon :- Create your favicon here - https://www.favicon.cc/
