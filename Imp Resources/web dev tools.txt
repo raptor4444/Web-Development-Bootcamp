@@ -1,0 +1,8 @@
+Adobe XD --- used for designing web applications
+
+alias mongod="/c/Program\ files/MongoDB/Server/6.0/bin/mongod.exe"
+alias mongos="/c/Program\ Files/MongoDB/Server/6.0/bin/mongos.exe"
+
+
+
+https://www.youtube.com/watch?v=IzSl46-K4LE
