@@ -1,0 +1,23 @@
+body{
+    background-color: lightgray;
+}
+
+
+/* hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgray;
+    border-width: 5px;
+    width: 3%;
+
+} */
+
+h1{
+    color: black;
+}
+
+h3{
+    color: red;
+}
+
